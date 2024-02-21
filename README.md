@@ -6,6 +6,9 @@ I'm already build:
 
 - [Event List](https://github.com/event-list/event-list), a software to share and manage your party.
 - [Gymang](https://github.com/vinibgoulart/gymang), a software to manage your workouts.
+
+I'm currently building:
+
 - [Mundo Otico](https://omundootico.com/), a complete ERP to manage your customers, products and orders.
 
 Currently working with react, node, typescript, relay, graphql.

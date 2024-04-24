@@ -12,3 +12,4 @@ I'm currently building:
 - [Mundo Otico](https://omundootico.com/), a complete ERP to manage your customers, products and orders.
 
 Currently working with react, node, typescript, relay, graphql.
+Currently learning golang.

@@ -4,8 +4,10 @@ I'm a software engineer. I'm interested in dev experience, especially in fullsta
 
 I'm already build:
 
-- [Event List](https://github.com/event-list/event-list), a software to share and manage your party.
-- [Gymang](https://github.com/vinibgoulart/gymang), a software to manage your workouts.
+- [Event List](https://github.com/event-list/event-list), a software to share and manage your party. Using typescript
+- [Gymang](https://github.com/vinibgoulart/gymang), a software to manage your workouts. Using typescript
+- [Zius](https://github.com/vinibgoulart/zius), a schema validator for golang. Using golang
+- [wpp-resume-ai](https://github.com/vinibgoulart/wpp-resume-ai), a bot for whatsapp to resume your chats using artificial intelligence. Using typescript
 
 I'm currently building:
 
